@@ -11,3 +11,5 @@ data/titanic_test.csv
 data/titanic_train.csv
 data/train.csv
 data/trainLabels.csv
+homework/Day_051~Day_053_HW.ipynb/dftest.pkl
+homework/Day_051~Day_053_HW.ipynb/dfoff.pkl
